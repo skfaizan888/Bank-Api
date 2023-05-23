@@ -1,3 +1,3 @@
-console.log("My name is Amjad..")
+console.log("My name is Amjad..");
 
-console.log(25**3)
+console.log(25 ** 3);
