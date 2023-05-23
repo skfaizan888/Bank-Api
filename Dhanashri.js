@@ -1,3 +1,6 @@
 console.log("My Name is Dhanashri Patil");
 
 console.log(2125 ** 3);
+
+
+console.log(25*25*25*25)
