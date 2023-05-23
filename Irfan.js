@@ -1,1 +1,2 @@
-console.log("My namem is Irfan...")
+
+console.log(25**3)
