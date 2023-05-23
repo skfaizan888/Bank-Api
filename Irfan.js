@@ -1,3 +1,1 @@
-console.log("My name is Irfan...")
-
-console.log(25**3)
+console.log("My namem is Irfan...")
